@@ -1,6 +1,10 @@
-# 3_dof_implementation_pick_and_place
-the last project was done on a 6dof robot from kawasaki company. In this project the last 3 degree of freedome were eliminated, and the rest were redesigned in Solidwork software and were printed with PLA filament.~~
-The MG996R were used to provide enough torque to make the necessary orientation possible.~~
-The links were also emptied out so the weight would not excced the limitaion.~~
-The controller was done on arduino.~~
-The controller board of servo motors were taken out so we would be responsible for controlling. Therefore, the library in arduino was not used.~~
+**3_dof_implementation_pick_and_place**
+
+
+This repository showcases the implementation of a 3-degree-of-freedom (3-DOF) pick and place robot. The project builds upon the previous work carried out on a 6-DOF robot developed by Kawasaki Company. For this project, the last three degrees of freedom were eliminated, and the remaining three were redesigned using SolidWorks software. The redesigned components were then 3D printed using PLA filament.
+
+To ensure sufficient torque for the required orientations, MG996R servo motors were employed in the robot's construction. Furthermore, the links were deliberately hollowed out to minimize the overall weight and comply with the imposed limitations.
+
+The control system for the robot was implemented using an Arduino microcontroller. Unlike the previous project, the controller board for the servo motors was removed, necessitating direct control. Consequently, the Arduino library was not utilized in this implementation.
+
+Please feel free to explore the code and design files provided in this repository. For any questions or inquiries, kindly reach out to the project contributors.
