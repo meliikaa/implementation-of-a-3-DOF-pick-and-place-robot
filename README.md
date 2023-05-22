@@ -7,4 +7,4 @@ To ensure sufficient torque for the required orientations, MG996R servo motors w
 
 The control system for the robot was implemented using an Arduino microcontroller. Unlike the previous project, the controller board for the servo motors was removed, necessitating direct control. Consequently, the Arduino library was not utilized in this implementation.
 
-Please feel free to explore the code and design files provided in this repository. For any questions or inquiries, kindly reach out to the project contributors.
+Please feel free to explore the code and design files provided in this repository. For any questions or inquiries, kindly reach out.
