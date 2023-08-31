@@ -28,3 +28,7 @@ Feel free to reach out if you have any questions, comments, or inquiries. We enc
 
 
 Please feel free to explore the code and design files provided in this repository. For any questions or inquiries, kindly reach out.
+![IMG_1921](https://github.com/meliikaa/implementation-of-a-3-DOF-pick-and-place-robot/assets/111120849/12f44bcb-ae84-4e4e-87e5-e61d5a118f05)
+
+![IMG_7956](https://github.com/meliikaa/implementation-of-a-3-DOF-pick-and-place-robot/assets/111120849/58cac37a-8765-4b51-a4ea-7ee1a7d48c9b)
+
